@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSLaTeX", "VSLaTeX\VSLaTeX.csproj", "{CDCC3980-E01B-4D8C-B2D4-095DA480662F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSLaTeX_IntegrationTests", "VSLaTeX\VSLaTeX_IntegrationTests\VSLaTeX_IntegrationTests.csproj", "{C90C9D95-1648-4815-9C4E-A86A1351E02D}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A3FF9B92-A3C0-4DEB-83D5-EB3CDC5CC444}"
 	ProjectSection(SolutionItems) = preProject
 		IntegrationTests.testsettings = IntegrationTests.testsettings
 		UnitTests.testsettings = UnitTests.testsettings
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSLaTeX", "VSLaTeX\VSLaTeX.csproj", "{CDCC3980-E01B-4D8C-B2D4-095DA480662F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSLaTeX_IntegrationTests", "VSLaTeX\VSLaTeX_IntegrationTests\VSLaTeX_IntegrationTests.csproj", "{C90C9D95-1648-4815-9C4E-A86A1351E02D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSLaTeX_UnitTests", "VSLaTeX\VSLaTeX_UnitTests\VSLaTeX_UnitTests.csproj", "{8895813A-5E50-4162-AB68-C62DC250D513}"
 EndProject
